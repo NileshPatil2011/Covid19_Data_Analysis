@@ -26,7 +26,3 @@ Open and run the notebook in Jupyter:
 
 jupyter notebook src/Covid19_Data_Analysis.ipynb
 
-## License
-MIT
-
-(Short README)
