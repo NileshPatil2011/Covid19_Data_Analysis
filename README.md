@@ -1,4 +1,4 @@
-# Coved19_Data_Analysis
+# Covid19_Data_Analysis
 
 Short project for analyzing COVID-19 data using a Jupyter Notebook.
 
